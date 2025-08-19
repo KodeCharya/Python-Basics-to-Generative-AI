@@ -375,21 +375,11 @@ Found this roadmap helpful? Consider:
 
 ---
 
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
 ### 💖 Support
 
 If this roadmap helped you in your learning journey, consider:
 - Sharing it with others who might benefit
-- Following me on [GitHub](https://github.com/yourusername) for more educational content
-- Connecting on [LinkedIn](https://linkedin.com/in/yourusername)
 
 ---
 
 **Happy Learning! 🎉**
-
-*Last updated: August 2025*
