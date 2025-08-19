@@ -1,9 +1,5 @@
 # 🚀 Complete AI Learning Roadmap: From Python Basics to Generative AI
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![GitHub stars](https://img.shields.io/github/stars/yourusername/ai-learning-roadmap.svg?style=social)](https://github.com/yourusername/ai-learning-roadmap/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/yourusername/ai-learning-roadmap.svg?style=social)](https://github.com/yourusername/ai-learning-roadmap/network)
-
 > A comprehensive, step-by-step roadmap for students who want to master Python programming and advance into AI, Machine Learning, and Computer Vision.
 
 ## 📋 Table of Contents
